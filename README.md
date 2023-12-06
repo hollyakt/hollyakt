@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hollyakt
-- 👀 I’m interested in cloud engineering, computer science and video games
-- 🌱 I’m currently learning python and studying for a couple of IT certificates
-- 💞️ I’m looking to collaborate on literally anything
+- 👀 I’m interested in data science,  machine learning and medicine
+- 🌱 I’m currently learning Python and R
+- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me hollyakati8@gmail.com
 
 <!---
