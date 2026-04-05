@@ -1,9 +1,8 @@
 # Hi, I'm Holly 👋
 
-I'm a biomedical engineering researcher at the intersection of **machine learning, clinical neuroscience, and medical imaging**. My work spans deep learning for brain tumor segmentation, EEG-based seizure detection, and surgical robotics — with a focus on building tools that translate directly to clinical impact.
+I'm a Health Data Science student at the intersection of **machine learning, clinical neuroscience, and medical imaging**. My work spans deep learning for brain tumor segmentation, EEG-based seizure detection, and surgical robotics, with a focus on building tools that translate directly to clinical impact.
 
-Currently: research at Children's National Hospital · B.S. Biomedical Engineering · applying to Biomedical Informatics & Bioengineering PhD programs.
-
+Currently: B.S. Health Data Science 
 ---
 
 ## Featured Projects
@@ -35,7 +34,3 @@ Currently: research at Children's National Hospital · B.S. Biomedical Engineeri
 - Surgical robotics & computer-assisted intervention
 - Clinical NLP & biomedical informatics
 - Health equity & disparities research
-
----
-
-📫 Reach me at: [GitHub](https://github.com/hollyakt)
