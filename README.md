@@ -8,6 +8,7 @@ Currently: research at Children's National Hospital · B.S. Biomedical Engineeri
 
 ## Featured Projects
 
+<!-- PROJECTS:START -->
 | Project | Description | Tech |
 |---------|-------------|------|
 | 🧠 [**NeuroSeg**](https://github.com/hollyakt/neuroseg) | 3D U-Net brain tumor segmentation on BraTS MRI + Streamlit demo | PyTorch, MONAI |
@@ -16,6 +17,10 @@ Currently: research at Children's National Hospital · B.S. Biomedical Engineeri
 | 🔪 [**Surgical Tool Tracker**](https://github.com/hollyakt/surgical-tool-tracker) | Real-time instrument detection + temporal tracking in laparoscopic video | YOLOv8, ByteTrack |
 | 🧬 [**fMRI Connectivity Dashboard**](https://github.com/hollyakt/fmri-connectivity) | Interactive resting-state connectivity analysis with ICA + graph metrics | nilearn, Streamlit |
 | 📡 [**Biosignal Toolkit**](https://github.com/hollyakt/biosignal-toolkit) | EEG/ECG/accelerometer processing library with unit tests | NumPy, SciPy |
+<!-- PROJECTS:END -->
+
+> The table above is generated from [`data/projects.json`](data/projects.json)
+> by [`scripts/build_readme.py`](scripts/build_readme.py).
 
 ---
 
