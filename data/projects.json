@@ -1,0 +1,44 @@
+[
+  {
+    "emoji": "🧠",
+    "name": "NeuroSeg",
+    "url": "https://github.com/hollyakt/neuroseg",
+    "description": "3D U-Net brain tumor segmentation on BraTS MRI + Streamlit demo",
+    "tech": "PyTorch, MONAI"
+  },
+  {
+    "emoji": "⚡",
+    "name": "SeizureNet",
+    "url": "https://github.com/hollyakt/seizurenet",
+    "description": "CNN seizure detection on CHB-MIT EEG with ML baseline comparison",
+    "tech": "PyTorch, MNE"
+  },
+  {
+    "emoji": "🔬",
+    "name": "Clinical NLP Pipeline",
+    "url": "https://github.com/hollyakt/clinical-nlp",
+    "description": "ClinicalBERT fine-tuned for medical entity extraction (NER)",
+    "tech": "HuggingFace, spaCy"
+  },
+  {
+    "emoji": "🔪",
+    "name": "Surgical Tool Tracker",
+    "url": "https://github.com/hollyakt/surgical-tool-tracker",
+    "description": "Real-time instrument detection + temporal tracking in laparoscopic video",
+    "tech": "YOLOv8, ByteTrack"
+  },
+  {
+    "emoji": "🧬",
+    "name": "fMRI Connectivity Dashboard",
+    "url": "https://github.com/hollyakt/fmri-connectivity",
+    "description": "Interactive resting-state connectivity analysis with ICA + graph metrics",
+    "tech": "nilearn, Streamlit"
+  },
+  {
+    "emoji": "📡",
+    "name": "Biosignal Toolkit",
+    "url": "https://github.com/hollyakt/biosignal-toolkit",
+    "description": "EEG/ECG/accelerometer processing library with unit tests",
+    "tech": "NumPy, SciPy"
+  }
+]
