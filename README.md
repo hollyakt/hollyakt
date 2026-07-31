@@ -1,4 +1,4 @@
-# Hi, I'm Holly 👋
+# Hi, I'm Holly 
 
 I'm a Health Data Science student at the intersection of **machine learning, clinical neuroscience, and medical imaging**. My work spans deep learning for brain tumor segmentation, EEG-based seizure detection, and surgical robotics, with a focus on building tools that translate directly to clinical impact.
 
